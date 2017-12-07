@@ -1,0 +1,107 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+.theme-2 .hero-text {
+  width: 100%;
+}
+
+    
+}
+    
+
+/* tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    
+.header-area {
+  padding: 40px 30px;
+}
+.hero-text {
+  padding-left: 30px;
+  width: 70%;
+}
+.copyright-text {
+  padding-left: 15px;
+}
+.social-link {
+  padding-right: 15px;
+}
+.theme-2 .hero-text {
+  padding: 100px 30px;
+  width: 80%;
+}
+    
+
+}
+
+    
+    
+/* Small Mobile :320px. */
+
+@media (max-width: 767px) {
+
+.site-wrap-table {
+  display: block;
+  height: auto;
+}    
+.site-wrap {
+  height: auto;
+}
+.header-area {
+  padding: 20px;
+  position: relative;
+}
+.logo {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.mainmenu {
+  text-align: center;
+}
+.footer-area {
+  position: relative;
+}
+.hero-text h2 {
+  font-size: 25px;
+  line-height: 40px;
+  margin-bottom: 20px;
+}
+.hero-text {
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 40px;
+  padding-left: 20px;
+  width: auto;
+}
+.copyright-text {
+  padding: 0;
+  text-align: center;
+}
+.social-link {
+  padding: 0;
+  text-align: center;
+}
+.social-link a {
+  margin: 0 5px;
+}
+.theme-2 .hero-text {
+  font-size: 14px;
+  line-height: 25px;
+  padding: 30px;
+  width: auto;
+}
+    
+    
+    
+    
+
+}
+    
+    
+    
+/* Large Mobile :480px. */
+@media (min-width: 480px) and (max-width: 767) {
+  
+
+}
